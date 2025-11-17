@@ -4,9 +4,9 @@ A recreation of Apple’s Maps app, built as a learning project to understand ho
 
 <p align="center">
   <img src="ScreenshotsMaps/IMG_0278.PNG" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="ScreenshotsMaps/IMG_0279.PNG" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="ScreenshotsMaps/IMG_0280.PNG" width="180" />
 </p>
 
