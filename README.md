@@ -1,2 +1,2 @@
 # Maps from Apple
-I recreated the well-known app from Apple, Maps, because I was interested in live location and how it works
+In this peroject I recreated the well-known app "Maps" from apple, because I wanted to learn about live location and get more familiar with Swift, SwiftUI and MapKit
