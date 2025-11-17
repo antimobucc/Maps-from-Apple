@@ -1,8 +1,14 @@
-# Maps-from-Apple
+# Maps
 
 A recreation of Apple’s Maps app, built as a learning project to understand how real-time location tracking works on iOS using Swift, SwiftUI, and MapKit.
 
-<img src="ScreenshotsMaps/IMG_0278.PNG" width="180"> <img src="ScreenshotsMaps/IMG_0279.PNG" width="180"> <img src="ScreenshotsMaps/IMG_0280.PNG" width="180">
+<p align="center">
+  <img src="ScreenshotsMaps/IMG_0278.PNG" width="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ScreenshotsMaps/IMG_0279.PNG" width="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ScreenshotsMaps/IMG_0280.PNG" width="180" />
+</p>
 
 ## 🎯 Project Goal
 
@@ -25,18 +31,15 @@ The app replicates the core behavior of Apple Maps by displaying the user’s cu
 - **Swift**
 - **SwiftUI**
 - **MapKit**
-- **Xcode** (add version if needed, e.g., Xcode 15)
-- **iOS target** (add minimum version, e.g., iOS 17)
+- **Xcode**
+- **iOS target**
 
 ## 🌟 Future Improvements
 
-- Potential enhancements for expanding the project:
 - Search for places or addresses
 - Add map pins / annotations
 - Route calculation and turn-by-turn navigation
 - Map types (standard, satellite, transit)
-- Improved UI with animations or custom controls
-- Better error handling for location permissions
 
 ## 🚀 How to Run the Project
 
@@ -45,6 +48,6 @@ The app replicates the core behavior of Apple Maps by displaying the user’s cu
    git clone https://github.com/antimobucc/Maps-from-Apple.git
 2. Open the project in xCode:
    MapsFromApple.xcodeproj
-3. Choose a simulator or real device.  (Better if you choose one real device)
+3. Choose a simulator or real device.  _(Better if you choose real device)_
 4. Run the project (⌘ + R).
 5. Grant location permissions when requested.
