@@ -3,11 +3,11 @@
 A recreation of Apple’s Maps app, built as a learning project to understand how real-time location tracking works on iOS using Swift, SwiftUI, and MapKit.
 
 <p align="center">
-  <img src="ScreenshotsMaps/IMG_0278.PNG" width="180" />
+  <img src="ScreenshotsMaps/IMG_0278.PNG" width="25%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ScreenshotsMaps/IMG_0279.PNG" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ScreenshotsMaps/IMG_0280.PNG" width="180" />
+  <img src="ScreenshotsMaps/IMG_0279.PNG" width="25%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ScreenshotsMaps/IMG_0280.PNG" width="25%" />
 </p>
 
 ## 🎯 Project Goal
