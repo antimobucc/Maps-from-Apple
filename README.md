@@ -13,9 +13,9 @@ A recreation of Apple’s Maps app, built as a learning project to understand ho
 ## 🎯 Project Goal
 
 This project was created to explore:
+- How to manage permissions, updates, and map interactions
 - How real-time user location tracking works  
 - How to integrate **MapKit** in a SwiftUI application  
-- How to manage permissions, updates, and map interactions  
 
 The app replicates the core behavior of Apple Maps by displaying the user’s current position and allowing interaction with the map.
 
