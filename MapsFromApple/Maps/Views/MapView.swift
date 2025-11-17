@@ -198,7 +198,7 @@ private var quickActionsSection: some View {
                 title: "Add",
                 color: .white
              ){
-                 /// TODO: Add some favourite places
+                 // TODO: Add some favourite places
             }
             //.padding(.horizontal)
             }.padding(.leading)
